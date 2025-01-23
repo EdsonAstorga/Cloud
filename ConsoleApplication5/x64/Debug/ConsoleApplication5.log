@@ -1,0 +1,5 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\edson\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\edson\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edson\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(17,9): warning C4101: 'i': variable local sin referencia
+  ConsoleApplication5.vcxproj -> C:\Users\edson\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
